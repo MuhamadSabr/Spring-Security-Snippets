@@ -10,7 +10,7 @@ Filters in Spring Security and How to Write Own Custom Filters.
 Deep dive about JWT (JSON Web Tokens) and their role in Authentication & Authorization
 
 ## Most of the material learned here has been applied to my Full Stack Library application like:
-CORS
-CSRF
-JWT authentication and authorization
-Filters
+CORS.
+CSRF.
+JWT authentication and authorization.
+Filters.
