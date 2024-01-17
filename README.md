@@ -9,7 +9,8 @@ Securing endpoint URLs inside web applications using Ant, MVC & Regex Matches
 Filters in Spring Security and How to Write Own Custom Filters.
 Deep dive about JWT (JSON Web Tokens) and their role in Authentication & Authorization
 
-## Most of the material learned here has been applied to my Full Stack Library application like:
+## Most of the material learned here has been applied to my Library application and HR application such as:
 CORS.
+CSRF
 JWT authentication and authorization.
 Filters.
