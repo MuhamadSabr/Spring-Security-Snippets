@@ -11,6 +11,6 @@ Deep dive about JWT (JSON Web Tokens) and their role in Authentication & Authori
 
 ## Most of the material learned here has been applied to my Library application and HR application such as:
 CORS.
-CSRF
+CSRF.
 JWT authentication and authorization.
 Filters.
